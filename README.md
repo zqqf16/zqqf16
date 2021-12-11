@@ -1,5 +1,9 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zqqf16&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zqqf16&show_icons=true&theme=swift&hide_title=true" />
 
 ### Hi there 👋
 
-Welcome to my github profile
+I'm zqqf16, an iOS developer from China.
+
+- 📝I write articles on [zorro.im](https://blog.zorro.im)
+- 📫Reach me: [@zqqf16](https://twitter.com/zqqf16)
+- 👨‍💻All of my projects are available at ↓
